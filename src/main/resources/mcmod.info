@@ -1,0 +1,16 @@
+[
+{
+  "modid": "hahafunnyratmod",
+  "name": "Haha Funny Rat Mod",
+  "description": "Haha",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["aaronhowser1, bl4ckscor3"],
+  "credits": "All code shamelessly stolen (with permission) by bl4ckscor3",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": ["rats"]
+}
+]
